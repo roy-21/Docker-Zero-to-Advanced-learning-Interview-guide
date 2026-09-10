@@ -5,7 +5,7 @@
 - Name: Sojib Chandra Roy
 - ID / Number: BD-01312026018
 - Email: rcsojib.cse1@gmail.com
-- GitHub: https://github.com/roy-21/Docker-Zero-to-Advanced-learning-Interview-guide.git
+
 
 ---
 
